@@ -1,0 +1,8 @@
+npm run dev is a commmand to run nodemon when app.js file was placed inside src folder
+
+
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node src/app.js",
+        "dev": "nodemon src/app.js"
+    },
