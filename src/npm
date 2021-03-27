@@ -6,3 +6,6 @@ npm run dev is a commmand to run nodemon when app.js file was placed inside src 
         "start": "node src/app.js",
         "dev": "nodemon src/app.js"
     },
+
+ npm init -y
+ Used TO Create Basic Sturcture automatically
